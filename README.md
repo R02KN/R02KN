@@ -1,8 +1,8 @@
 ![Banner](./imgs/BANNER_PROFILE.png)
 # R02KN
-Je suis R02KN un simple passionné de programmation, je fait des site web et je les publies sur Ghithub.
+I'm R02KN, a simple web developer, I make websites and I publish them on Ghithub.
 
-> J'apprends en ce moment React.js
+> I’m currently learning React.js
 ...
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=R02KN&show_icons=true)
