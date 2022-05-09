@@ -5,7 +5,7 @@ Je suis R02KN un simple passionné de programmation, je fait des site web et je 
 > J'apprends en ce moment React.js
 ...
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=r02kn_icons=true)
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=R02KN&show_icons=true)
 
 ### Languages and Tools
 
