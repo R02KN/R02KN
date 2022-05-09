@@ -1,5 +1,8 @@
+![Banner](./imgs/BANNER_PROFILE.png)
 # R02KN
-Je suis R02KN un simple passionné de programmation, je fait dezs site web et je les publies sur Ghithub.
+Je suis R02KN un simple passionné de programmation, je fait des site web et je les publies sur Ghithub.
+
+
 
 <!--
 **R02KN/R02KN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
