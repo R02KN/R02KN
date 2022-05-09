@@ -2,6 +2,8 @@
 # R02KN
 Je suis R02KN un simple passionné de programmation, je fait des site web et je les publies sur Ghithub.
 
+> J'apprends en ce moment React.js
+
 
 
 <!--
