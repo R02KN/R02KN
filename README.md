@@ -4,7 +4,8 @@ Je suis R02KN un simple passionné de programmation, je fait des site web et je 
 
 > J'apprends en ce moment React.js
 
-<i class="fa fa-youtube-play" aria-hidden="true"></i>
+
+### Languages and Tools
 
 
 
